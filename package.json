@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-bb",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:brunoBalza/random-str-msg-bb.git"
+  },
+  "keywords": [],
+  "author": "Bruno Balzarelli <brunobalzarelli@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/random-str-msg-bb/issues"
+  },
+  "homepage": "https://github.com/gndx/random-str-msg-bb#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
